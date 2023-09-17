@@ -1,0 +1,4 @@
+build -> setup file
+talvez uma interface para dropar arquivos
+
+output file or directory -> concentrar tudo em um banco de dados
