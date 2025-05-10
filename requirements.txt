@@ -2,3 +2,4 @@ beautifulsoup4
 selenium
 webdriver-manager
 PyQt6
+opencv-python
